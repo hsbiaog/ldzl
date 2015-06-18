@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+		<dict>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>来电助理</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-identifier</key>
+				<string>cn.chinatelecom.ldzl</string>
+				<key>bundle-version</key>
+				<string>1.3.6</string>
+			</dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>http://ldzl.114sh.cn/mtomato.ipa</string>
+					<key>display-image</key>
+					<string>http://wx.aniu.tv/icon57.png</string>
+					<key>full-size-image</key>
+					<string>http://wx.aniu.tv/icon512.png</string>
+					<key>kind</key>
+					<string>software-package</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
